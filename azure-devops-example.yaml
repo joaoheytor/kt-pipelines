@@ -10,3 +10,4 @@ steps:
 - checkout: self
 - script: npm install
 - script: npm test
+- script: echo "HELLO WORLD"
